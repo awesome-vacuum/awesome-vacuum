@@ -4,12 +4,8 @@ A list of free and open source Software and Hardware projects which can be used 
 
 --------------------
 
-# TOC
-
 - [Hardware](#hardware)
 - [Software](#software)
-  - [Dustcloud](#dustcloud)
-  - [Valetudo](#valetudo)
 
 --------------------
 
