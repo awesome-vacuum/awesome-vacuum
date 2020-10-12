@@ -5,11 +5,17 @@ A curated list of free and open source Software and Hardware projects which can 
 --------------------
 
 - [Hardware](#hardware)
+  - [Projects](#projects)
 - [Software](#software)
+  - [SLAM](#slam)
 
 --------------------
 
 # Hardware
+
+**[`^        back to top        ^`](#)**
+
+## Projects
 
 **[`^        back to top        ^`](#)**
 
@@ -21,9 +27,16 @@ A curated list of free and open source Software and Hardware projects which can 
 
 **[`^        back to top        ^`](#)**
 
-- [Dustcloud](https://github.com/dgiese/dustcloud) - Xiaomi Smart Home Device Reverse Engineering and Hacking `GPL-3.0` `C`
-- [Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots `Apache-2.0` `JavaScript`
 - [Bumper](https://github.com/bmartin5692/bumper) - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robot `GPL-3.0` `Python`
+- [Dustcloud](https://github.com/dgiese/dustcloud) - Xiaomi Smart Home Device Reverse Engineering and Hacking `GPL-3.0` `Various`
+- [ROS (Robot Operating System)](https://wiki.ros.org/) - Provides libraries and tools to help software developers create robot applications. It provides hardware abstraction, device drivers, libraries, visualizers, message-passing, package management, and more. `BSD` `Various`
+- [Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots `Apache-2.0` `JavaScript`
+
+## SLAM
+
+**[`^        back to top        ^`](#)**
+
+- [ROS SLAM](https://github.com/ros-perception/slam_gmapping) - a ROS wrapper for OpenSlam's Gmapping `BSD` `C++`
 
 --------------------
 
