@@ -1,6 +1,6 @@
 # awesome-vacuum
 
-A list of free and open source Software and Hardware projects which can be used to build and control a robot vacuum.
+A curated list of free and open source Software and Hardware projects which can be used to build and control a robot vacuum.
 
 --------------------
 
