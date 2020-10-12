@@ -5,6 +5,7 @@ A curated list of free and open source Software and Hardware projects which can 
 --------------------
 
 - [Hardware](#hardware)
+  - [LIDAR](#lidar)
   - [Projects](#projects)
 - [Software](#software)
   - [SLAM](#slam)
@@ -22,6 +23,12 @@ A curated list of free and open source Software and Hardware projects which can 
 - [CleanBOT](https://www.instructables.com/CleanBOT/) - DIY bluetooth controlled robot vacuum built from wood and scrap electronics
 - [DIY Vacuum Robot by CesNieto](https://www.instructables.com/Build-Your-Own-Vacuum-Robot/) - DIY robot vacuum built using 3D printing and an Arduino Uno
 - [Robot Vacuum Cleaner MK2](https://www.myminifactory.com/object/3d-print-101108) - DIY robot vacuum built using 3D printing and an Arduino Nano `BY-NC-SA`
+
+## LIDAR
+
+**[`^        back to top        ^`](#)**
+
+- [RPLIDAR A Series](https://www.slamtec.com/en/Lidar/A1) - 360 Degree Laser Scanner with ROS integration and up to 16K samples per second
 
 # Software
 
