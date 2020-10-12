@@ -26,4 +26,4 @@ A curated list of free and open source Software and Hardware projects which can 
 
 # Contributing
 
-You know a software or hardware project that is not on this list yet? Contributions are very much welcome! Have a look at the [Contributing guidelines] which can be found in .github/CONTRIBUTING.md to learn how you can add projects to this list.
+You know a software or hardware project that is not on this list yet? Contributions are very much welcome! Have a look at the [Contributing Guidelines](.github/CONTRIBUTING.md) to learn how you can add projects to this list.
