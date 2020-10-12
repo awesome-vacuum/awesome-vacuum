@@ -23,6 +23,7 @@ A curated list of free and open source Software and Hardware projects which can 
 
 - [Dustcloud](https://github.com/dgiese/dustcloud) - Xiaomi Smart Home Device Reverse Engineering and Hacking `GPL-3.0` `C`
 - [Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots `Apache-2.0` `JavaScript`
+- [Bumper](https://github.com/bmartin5692/bumper) - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robot `GPL-3.0` `Python`
 
 --------------------
 
