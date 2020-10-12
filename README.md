@@ -14,7 +14,7 @@ A curated list of free and open source Software and Hardware projects which can 
 **[`^        back to top        ^`](#)**
 
 - [DIY Vacuum Robot by CesNieto](https://www.instructables.com/Build-Your-Own-Vacuum-Robot/) - DIY robot vacuum built using 3D printing and an Arduino Uno
-- [Robot Vacuum Cleaner MK2](https://www.myminifactory.com/object/3d-print-101108) - DIY robot vacuum built using 3D printing and an Arduino Nano `BY-NC-SA` `C`
+- [Robot Vacuum Cleaner MK2](https://www.myminifactory.com/object/3d-print-101108) - DIY robot vacuum built using 3D printing and an Arduino Nano `BY-NC-SA`
 
 # Software
 
