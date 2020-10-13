@@ -43,6 +43,7 @@ A curated list of free and open source Software and Hardware projects which can 
 
 **[`^        back to top        ^`](#)**
 
+- [BreezySLAM](https://github.com/simondlevy/BreezySLAM) - Simple, efficient, open-source package for Simultaneous Localization and Mapping `LGPLv3` `Various`
 - [cartographer](https://github.com/cartographer-project/cartographer) - A system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. `Apache-2.0` `C++`
 - [OpenVSLAM](https://github.com/xdspacelab/openvslam) - A Versatile Visual SLAM Framework `2-Clause BSD` `C++`
 - [ROS SLAM](https://github.com/ros-perception/slam_gmapping) - a ROS wrapper for OpenSlam's Gmapping `BSD` `C++`
