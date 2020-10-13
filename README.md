@@ -8,6 +8,7 @@ A curated list of free and open source Software and Hardware projects which can 
   - [LIDAR](#lidar)
   - [Projects](#projects)
 - [Software](#software)
+  - [Frameworks](#frameworks)
   - [SLAM](#slam)
 
 --------------------
@@ -36,8 +37,14 @@ A curated list of free and open source Software and Hardware projects which can 
 
 - [Bumper](https://github.com/bmartin5692/bumper) - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robot `GPL-3.0` `Python`
 - [Dustcloud](https://github.com/dgiese/dustcloud) - Xiaomi Smart Home Device Reverse Engineering and Hacking `GPL-3.0` `Various`
-- [ROS (Robot Operating System)](https://wiki.ros.org/) - Provides libraries and tools to help software developers create robot applications. It provides hardware abstraction, device drivers, libraries, visualizers, message-passing, package management, and more. `BSD` `Various`
 - [Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots `Apache-2.0` `JavaScript`
+
+## Frameworks
+
+**[`^        back to top        ^`](#)**
+
+- [Gobot](https://github.com/hybridgroup/gobot/) - Golang framework for robotics, drones, and the Internet of Things (IoT)  `Apache-2.0` `golang`
+- [ROS (Robot Operating System)](https://wiki.ros.org/) - Provides libraries and tools to help software developers create robot applications. It provides hardware abstraction, device drivers, libraries, visualizers, message-passing, package management, and more. `BSD` `Various`
 
 ## SLAM
 
