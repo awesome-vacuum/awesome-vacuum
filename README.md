@@ -7,6 +7,7 @@ A curated list of free and open source Software and Hardware projects which can 
 - [Hardware](#hardware)
   - [LIDAR](#lidar)
   - [Projects](#projects)
+  - [IMU](#imu)
 - [Software](#software)
   - [Frameworks](#frameworks)
   - [SLAM](#slam)
@@ -31,6 +32,12 @@ A curated list of free and open source Software and Hardware projects which can 
 
 - [camsense-X1](https://github.com/Vidicon/camsense-X1) - Unofficial reverse engineering of a Chinese LiDAR.
 - [RPLIDAR A Series](https://www.slamtec.com/en/Lidar/A1) - 360 Degree Laser Scanner with ROS integration and up to 16K samples per second.
+
+## IMU
+
+**[`^        back to top        ^`](#)**
+
+- [MPU6050](https://playground.arduino.cc/Main/MPU-6050/) - IMU sensor helps to make localization much more stable for ex- cartographer can be easily setup with IMU to improve localization 
 
 # Software
 
