@@ -22,11 +22,15 @@ A curated list of free and open source Software and Hardware projects which can 
 
 **[`^        back to top        ^`](#)**
 
-- [MPU6050](https://playground.arduino.cc/Main/MPU-6050/) - IMU sensor helps to make localization much more stable for ex- cartographer can be easily setup with IMU to improve localization 
+A IMU helps to make localization much more stable, f. ex. [cartographer](https://github.com/cartographer-project/cartographer) can easily be setup with IMU to improve localization.
+
+- [MPU6050](https://playground.arduino.cc/Main/MPU-6050/) - IMU sensor combining a MEMS accelerometer and a MEMS gyro on a single chip.
 
 ## LIDAR
 
 **[`^        back to top        ^`](#)**
+
+A LIDAR (Light Detection and Ranging) can create an accurate representation of its surroundings by utilizing a laser and a light sensor to measure TOF (Time of Flight). Devices are available as 2D and 3D variants, although the 3D variant is still pretty expensive and does not add much value to the robot vacuum use case.
 
 - [camsense-X1](https://github.com/Vidicon/camsense-X1) - Unofficial reverse engineering of a Chinese LiDAR.
 - [RPLIDAR A Series](https://www.slamtec.com/en/Lidar/A1) - 360 Degree Laser Scanner with ROS integration and up to 16K samples per second.
@@ -34,6 +38,8 @@ A curated list of free and open source Software and Hardware projects which can 
 ## Projects
 
 **[`^        back to top        ^`](#)**
+
+A list of full blown projects to create a robot vacuum.
 
 - [CleanBOT](https://www.instructables.com/CleanBOT/) - DIY bluetooth controlled robot vacuum built from wood and scrap electronics.
 - [DIY Vacuum Robot by CesNieto](https://www.instructables.com/Build-Your-Own-Vacuum-Robot/) - DIY robot vacuum built using 3D printing and an Arduino Uno.
@@ -57,6 +63,8 @@ A curated list of free and open source Software and Hardware projects which can 
 ## SLAM
 
 **[`^        back to top        ^`](#)**
+
+SLAM (Simultaneous Localization and Mapping) is used to build a map by repeatedly scanning surrounding area and through that enable the robot to localize itself within that environment.
 
 - [BreezySLAM](https://github.com/simondlevy/BreezySLAM) - Simple, efficient, open-source package for Simultaneous Localization and Mapping. `LGPLv3` `Various`
 - [cartographer](https://github.com/cartographer-project/cartographer) - A system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations. `Apache-2.0` `C++`
