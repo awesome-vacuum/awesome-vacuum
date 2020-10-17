@@ -18,13 +18,11 @@ A curated list of free and open source Software and Hardware projects which can 
 
 **[`^        back to top        ^`](#)**
 
-## Projects
+## IMU
 
 **[`^        back to top        ^`](#)**
 
-- [CleanBOT](https://www.instructables.com/CleanBOT/) - DIY bluetooth controlled robot vacuum built from wood and scrap electronics.
-- [DIY Vacuum Robot by CesNieto](https://www.instructables.com/Build-Your-Own-Vacuum-Robot/) - DIY robot vacuum built using 3D printing and an Arduino Uno.
-- [Robot Vacuum Cleaner MK2](https://www.myminifactory.com/object/3d-print-101108) - DIY robot vacuum built using 3D printing and an Arduino Nano. `BY-NC-SA`
+- [MPU6050](https://playground.arduino.cc/Main/MPU-6050/) - IMU sensor helps to make localization much more stable for ex- cartographer can be easily setup with IMU to improve localization 
 
 ## LIDAR
 
@@ -33,11 +31,13 @@ A curated list of free and open source Software and Hardware projects which can 
 - [camsense-X1](https://github.com/Vidicon/camsense-X1) - Unofficial reverse engineering of a Chinese LiDAR.
 - [RPLIDAR A Series](https://www.slamtec.com/en/Lidar/A1) - 360 Degree Laser Scanner with ROS integration and up to 16K samples per second.
 
-## IMU
+## Projects
 
 **[`^        back to top        ^`](#)**
 
-- [MPU6050](https://playground.arduino.cc/Main/MPU-6050/) - IMU sensor helps to make localization much more stable for ex- cartographer can be easily setup with IMU to improve localization 
+- [CleanBOT](https://www.instructables.com/CleanBOT/) - DIY bluetooth controlled robot vacuum built from wood and scrap electronics.
+- [DIY Vacuum Robot by CesNieto](https://www.instructables.com/Build-Your-Own-Vacuum-Robot/) - DIY robot vacuum built using 3D printing and an Arduino Uno.
+- [Robot Vacuum Cleaner MK2](https://www.myminifactory.com/object/3d-print-101108) - DIY robot vacuum built using 3D printing and an Arduino Nano. `BY-NC-SA`
 
 # Software
 
