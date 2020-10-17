@@ -76,4 +76,4 @@ SLAM (Simultaneous Localization and Mapping) is used to build a map by repeatedl
 
 # Contributing
 
-You know a software or hardware project that is not on this list yet? Contributions are very much welcome! Have a look at the [Contributing Guidelines](.github/CONTRIBUTING.md) to learn how you can add projects to this list.
+You know a software or hardware project that is not on this list yet? Contributions are very much welcome! Have a look at the [Contribution Guidelines](.github/CONTRIBUTING.md) to learn how you can add projects to this list.
