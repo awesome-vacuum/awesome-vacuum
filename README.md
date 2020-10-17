@@ -22,7 +22,8 @@ A curated list of free and open source Software and Hardware projects which can 
 
 **[`^        back to top        ^`](#)**
 
-A IMU helps to make localization much more stable, f. ex. [cartographer](https://github.com/cartographer-project/cartographer) can easily be setup with IMU to improve localization.
+A IMU helps to make localization much more stable by providing accelerometer, gyroscope and some even magnetometer data.  
+[cartographer](https://github.com/cartographer-project/cartographer) can easily be setup with IMU to improve localization.
 
 - [MPU6050](https://playground.arduino.cc/Main/MPU-6050/) - IMU sensor combining a MEMS accelerometer and a MEMS gyro on a single chip.
 
