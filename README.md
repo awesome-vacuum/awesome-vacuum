@@ -5,9 +5,9 @@ A curated list of free and open source Software and Hardware projects which can 
 --------------------
 
 - [Hardware](#hardware)
+  - [IMU](#imu)
   - [LIDAR](#lidar)
   - [Projects](#projects)
-  - [IMU](#imu)
 - [Software](#software)
   - [Frameworks](#frameworks)
   - [SLAM](#slam)
