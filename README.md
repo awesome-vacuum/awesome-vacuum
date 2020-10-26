@@ -22,7 +22,7 @@ A curated list of free and open source software and hardware projects which can 
 
 **[`^        back to top        ^`](#)**
 
-A IMU helps to make localization much more stable by providing accelerometer, gyroscope and some even magnetometer data.  
+A IMU helps to make localization much more stable by providing accelerometer, gyroscope and some even magnetometer data.
 [cartographer](https://github.com/cartographer-project/cartographer) can easily be setup with IMU to improve localization.
 
 - [MPU6050](https://playground.arduino.cc/Main/MPU-6050/) - IMU sensor combining a MEMS accelerometer and a MEMS gyro on a single chip.
@@ -56,6 +56,7 @@ A list of full blown projects to create a robot vacuum.
 - [Valetudo RE](https://github.com/rand256/valetudo) - Experimental vacuum software, cloud free (Valetudo Fork) `Apache-2.0` `JavaScript`
 - [I can't belive it's not Valetudo](https://github.com/Hypfer/ICantBelieveItsNotValetudo) - Valetudo companion service (Map Rendering) `Apache-2.0` `JavaScript`
 - [valetudo mapper](https://github.com/rand256/valetudo-mapper) - Valetudo companion service (Map Rendering, ICantBelieveItsNotValetudo Fork) `Apache-2.0` `JavaScript`
+- [Roborock Oucher](https://github.com/porech/roborock-oucher) - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream "Ouch!" (or everything else) everytime it bumps into something `MIT` `golang`
 
 ## Frameworks
 
