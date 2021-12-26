@@ -4,6 +4,7 @@ A curated list of free and open source software and hardware projects which can 
 
 --------------------
 
+- [awesome-vacuum](#awesome-vacuum)
 - [Hardware](#hardware)
   - [IMU](#imu)
   - [LIDAR](#lidar)
@@ -11,6 +12,8 @@ A curated list of free and open source software and hardware projects which can 
 - [Software](#software)
   - [Frameworks](#frameworks)
   - [SLAM](#slam)
+- [Other Awesome Lists](#other-awesome-lists)
+- [Contributing](#contributing)
 
 --------------------
 
@@ -57,6 +60,8 @@ A list of full blown projects to create a robot vacuum.
 - [I can't belive it's not Valetudo](https://github.com/Hypfer/ICantBelieveItsNotValetudo) - Valetudo companion service (Map Rendering) `Apache-2.0` `JavaScript`
 - [Valetudo RE](https://github.com/rand256/valetudo) - Experimental vacuum software, cloud free (Valetudo Fork) `Apache-2.0` `JavaScript`
 - [valetudo mapper](https://github.com/rand256/valetudo-mapper) - Valetudo companion service (Map Rendering, ICantBelieveItsNotValetudo Fork) `Apache-2.0` `JavaScript`
+- [FreeCong.ga](https://freecon.ga) - Valetudo implementation for Cecotec Conga Vacuums. It has [Home Assistant addon](https://github.com/txitxo0/congatudo-add-on) to make easier how Valetudo is used with your conga.
+- [OpenDoñita](https://gitlab.com/rastersoft/opendonita) - Add local support for Conga 1490.
 
 ## Frameworks
 
