@@ -73,6 +73,7 @@ A list of full blown projects to create a robot vacuum.
 - [FreeCong.ga](https://freecon.ga) - Valetudo implementation for Cecotec Conga Vacuums. [Freeconga Organization](https://github.com/freeconga) in Github. `Apache-2.0`, `GPL-3.0`
 - [Congatudo](https://github.com/freeconga/congatudo-add-on) Freecon.ga project to have Valetudo in the Home Assistant as addon intead of use standalone installation into the vacuum. `GPL-3.0` `Shell`
 - [OpenDoñita](https://gitlab.com/rastersoft/opendonita) - Add local support for previous Congas 1490. `GPL-3.0` `Python`
+- [MQTT Vacuum Camera](https://github.com/sca075/mqtt_vacuum_camera) - Home Assistant camera integration to render the maps of vacuums connected via MQTT (Valetudo, Valetudo RE, Congatudo). `Apache-2.0` `Python`
 
 ## Frameworks
 
