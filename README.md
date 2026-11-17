@@ -61,6 +61,7 @@ A list of full blown projects to create a robot vacuum.
 - [CleanIt](https://github.com/Sollimann/CleanIt) - Open-source autonomy software using gRPC for the Roomba series robot vacuum cleaners. Under development. `MIT` `Rust`
 - [dorita980](https://github.com/koalazak/dorita980) - Unofficial SDK to control iRobot Roomba and Braava robots over the local network. `MIT` `JavaScript`
 - [Dreame Vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support. `MIT` `Python`
+- [Xiaomi Vacuum](https://github.com/matteocelani/xiaomi-vacuum) - Home Assistant integration for Xiaomi and Dreame robot vacuums with map support, a maintained fork of Dreame Vacuum. `MIT` `Python`
 - [Dustcloud](https://github.com/dgiese/dustcloud) - Xiaomi Smart Home Device Reverse Engineering and Hacking. `GPL-3.0` `Various`
 - [Robot Info](https://robotinfo.dev/) - Overview of robot vacuums with hardware details and information on which models can be rooted.
 - [python-miio](https://github.com/rytilahti/python-miio) - Python library and console tool for controlling Xiaomi smart appliances, including vacuums. `GPL-3.0` `Python`
