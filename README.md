@@ -48,7 +48,9 @@ A list of full blown projects to create a robot vacuum.
 
 - [CleanBOT](https://www.instructables.com/CleanBOT/) - DIY bluetooth controlled robot vacuum built from wood and scrap electronics.
 - [DIY Vacuum Robot by CesNieto](https://www.instructables.com/Build-Your-Own-Vacuum-Robot/) - DIY robot vacuum built using 3D printing and an Arduino Uno.
+- [DIY Robot Vacuum by Mr. Cookie](https://hackaday.io/project/182176-diy-robot-vacuum) - DIY robot vacuum built from an Arduino, MDF and widely available parts, without custom PCBs. Laser-cut files for the frame are provided.
 - [OOMWOO](https://github.com/makerspet/oomwoo) - Open source robot vacuum you build yourself, using a Raspberry Pi, 3D printing, ROS 2 and Home Assistant. `Apache-2.0` `Python`
+- [OOMWOO PCB](https://github.com/makerspet/oomwoo-pcb) - I/O board (STM32 with motor drivers and sensor inputs) for the OOMWOO robot vacuum. `Apache-2.0`
 - [Robot Vacuum Cleaner MK2](https://www.myminifactory.com/object/3d-print-101108) - DIY robot vacuum built using 3D printing and an Arduino Nano. `BY-NC-SA`
 
 # Software
@@ -60,6 +62,7 @@ A list of full blown projects to create a robot vacuum.
 - [dorita980](https://github.com/koalazak/dorita980) - Unofficial SDK to control iRobot Roomba and Braava robots over the local network. `MIT` `JavaScript`
 - [Dreame Vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support. `MIT` `Python`
 - [Dustcloud](https://github.com/dgiese/dustcloud) - Xiaomi Smart Home Device Reverse Engineering and Hacking. `GPL-3.0` `Various`
+- [Robot Info](https://robotinfo.dev/) - Overview of robot vacuums with hardware details and information on which models can be rooted.
 - [python-miio](https://github.com/rytilahti/python-miio) - Python library and console tool for controlling Xiaomi smart appliances, including vacuums. `GPL-3.0` `Python`
 - [python-roborock](https://github.com/python-roborock/python-roborock) - Python library and console tool for controlling Roborock vacuums. `Apache-2.0` `Python`
 - [Xiaomi Cloud Map Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) - Home Assistant integration showing a live map for Xiaomi, Roborock, Viomi, Roidmi and Dreame vacuums without rooting. `MIT` `Python`
@@ -69,6 +72,7 @@ A list of full blown projects to create a robot vacuum.
 - [Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
 - [I can't belive it's not Valetudo](https://github.com/Hypfer/ICantBelieveItsNotValetudo) - Valetudo companion service (Map Rendering) `Apache-2.0` `JavaScript`
 - [Valetudo RE](https://github.com/rand256/valetudo) - Experimental vacuum software, cloud free (Valetudo Fork) `Apache-2.0` `JavaScript`
+- [vacuum (zvldz)](https://github.com/zvldz/vacuum) - Firmware builder for first and second generation Roborock vacuums. `GPL-3.0` `Shell`
 - [valetudo mapper](https://github.com/rand256/valetudo-mapper) - Valetudo companion service (Map Rendering, ICantBelieveItsNotValetudo Fork) `Apache-2.0` `JavaScript`
 - [FreeCong.ga](https://freecon.ga) - Valetudo implementation for Cecotec Conga Vacuums. [Freeconga Organization](https://github.com/freeconga) in Github. `Apache-2.0`, `GPL-3.0`
 - [Congatudo](https://github.com/freeconga/congatudo-add-on) Freecon.ga project to have Valetudo in the Home Assistant as addon intead of use standalone installation into the vacuum. `GPL-3.0` `Shell`
