@@ -37,6 +37,7 @@ A IMU helps to make localization much more stable by providing accelerometer, gy
 A LIDAR (Light Detection and Ranging) can create an accurate representation of its surroundings by utilizing a laser and a light sensor to measure TOF (Time of Flight). Devices are available as 2D and 3D variants, although the 3D variants are still pretty expensive and do not add much value to the "robot vacuum" use case.
 
 - [camsense-X1](https://github.com/Vidicon/camsense-X1) - Unofficial reverse engineering of a Chinese LiDAR. `GPL-3.0`
+- [kaiaai LDS](https://github.com/kaiaai/LDS) - Arduino library with a single API for 20+ low-cost 2D LiDARs, including ones salvaged from robot vacuums (Xiaomi LDS02RR, Neato XV11, Camsense X1, YDLIDAR, ...). `Apache-2.0` `C++`
 - [RPLIDAR A Series](https://www.slamtec.com/en/Lidar/A1) - 360 Degree Laser Scanner with ROS integration and up to 16K samples per second.
 
 ## Projects
@@ -47,6 +48,7 @@ A list of full blown projects to create a robot vacuum.
 
 - [CleanBOT](https://www.instructables.com/CleanBOT/) - DIY bluetooth controlled robot vacuum built from wood and scrap electronics.
 - [DIY Vacuum Robot by CesNieto](https://www.instructables.com/Build-Your-Own-Vacuum-Robot/) - DIY robot vacuum built using 3D printing and an Arduino Uno.
+- [OOMWOO](https://github.com/makerspet/oomwoo) - Open source robot vacuum you build yourself, using a Raspberry Pi, 3D printing, ROS 2 and Home Assistant. `Apache-2.0` `Python`
 - [Robot Vacuum Cleaner MK2](https://www.myminifactory.com/object/3d-print-101108) - DIY robot vacuum built using 3D printing and an Arduino Nano. `BY-NC-SA`
 
 # Software
@@ -55,7 +57,13 @@ A list of full blown projects to create a robot vacuum.
 
 - [Bumper](https://github.com/bmartin5692/bumper) - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robot. `GPL-3.0` `Python`
 - [CleanIt](https://github.com/Sollimann/CleanIt) - Open-source autonomy software using gRPC for the Roomba series robot vacuum cleaners. Under development. `MIT` `Rust`
+- [dorita980](https://github.com/koalazak/dorita980) - Unofficial SDK to control iRobot Roomba and Braava robots over the local network. `MIT` `JavaScript`
+- [Dreame Vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support. `MIT` `Python`
 - [Dustcloud](https://github.com/dgiese/dustcloud) - Xiaomi Smart Home Device Reverse Engineering and Hacking. `GPL-3.0` `Various`
+- [python-miio](https://github.com/rytilahti/python-miio) - Python library and console tool for controlling Xiaomi smart appliances, including vacuums. `GPL-3.0` `Python`
+- [python-roborock](https://github.com/python-roborock/python-roborock) - Python library and console tool for controlling Roborock vacuums. `Apache-2.0` `Python`
+- [Xiaomi Cloud Map Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) - Home Assistant integration showing a live map for Xiaomi, Roborock, Viomi, Roidmi and Dreame vacuums without rooting. `MIT` `Python`
+- [Xiaomi Vacuum Map Card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - Home Assistant Lovelace card to control map-based vacuums (Xiaomi, Valetudo, Neato, Roomba, Ecovacs, ...). `MIT` `TypeScript`
 - [Roborock Oucher](https://github.com/porech/roborock-oucher) - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream "Ouch!" (or everything else) everytime it bumps into something `MIT` `golang`
 - [Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
 - [I can't belive it's not Valetudo](https://github.com/Hypfer/ICantBelieveItsNotValetudo) - Valetudo companion service (Map Rendering) `Apache-2.0` `JavaScript`
