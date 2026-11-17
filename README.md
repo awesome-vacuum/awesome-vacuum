@@ -54,6 +54,7 @@ A list of full blown projects to create a robot vacuum.
 **[`^        back to top        ^`](#)**
 
 - [Bumper](https://github.com/bmartin5692/bumper) - A standalone and self-hosted implementation of the central server used by Ecovacs vacuum robot. `GPL-3.0` `Python`
+- [CleanIt](https://github.com/Sollimann/CleanIt) - Open-source autonomy software using gRPC for the Roomba series robot vacuum cleaners. Under development. `MIT` `Rust`
 - [Dustcloud](https://github.com/dgiese/dustcloud) - Xiaomi Smart Home Device Reverse Engineering and Hacking. `GPL-3.0` `Various`
 - [Roborock Oucher](https://github.com/porech/roborock-oucher) - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream "Ouch!" (or everything else) everytime it bumps into something `MIT` `golang`
 - [Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
