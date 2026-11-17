@@ -65,6 +65,7 @@ A list of full blown projects to create a robot vacuum.
 - [Xiaomi Cloud Map Extractor](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) - Home Assistant integration showing a live map for Xiaomi, Roborock, Viomi, Roidmi and Dreame vacuums without rooting. `MIT` `Python`
 - [Xiaomi Vacuum Map Card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - Home Assistant Lovelace card to control map-based vacuums (Xiaomi, Valetudo, Neato, Roomba, Ecovacs, ...). `MIT` `TypeScript`
 - [Roborock Oucher](https://github.com/porech/roborock-oucher) - An utility to make the Roborock / Xiaomi MI Vacuum Cleaner scream "Ouch!" (or everything else) everytime it bumps into something `MIT` `golang`
+- [VacuumTiger](https://github.com/codetiger/VacuumTiger) - Modular, configuration-driven open source firmware for robot vacuums, with a generic TCP protocol for SLAM applications. `MIT` `Rust`
 - [Valetudo](https://github.com/Hypfer/Valetudo) - Cloud-free control webinterface for vacuum robots. `Apache-2.0` `JavaScript`
 - [I can't belive it's not Valetudo](https://github.com/Hypfer/ICantBelieveItsNotValetudo) - Valetudo companion service (Map Rendering) `Apache-2.0` `JavaScript`
 - [Valetudo RE](https://github.com/rand256/valetudo) - Experimental vacuum software, cloud free (Valetudo Fork) `Apache-2.0` `JavaScript`
